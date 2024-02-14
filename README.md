@@ -154,4 +154,10 @@ By following these guidelines, you help us maintain a healthy and organized repo
 
 Happy coding! 🚀
 
+---
+## TODO
 
+- [x] Complete the initial extension (completed!)
+- [x] Create first demo reel (completed!)
+- [ ] Updating script details
+- [ ] Optimize extension
