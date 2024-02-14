@@ -1,7 +1,10 @@
 # vsDeploy Extension
 
 vsDeploy is a Microsoft Edge extension that enables developers to extract HTML from any webpage and open it in vsCode with just one click. This tool is designed to streamline the development process and increase productivity.
-[![vsDeploy Demo](https://img.youtube.com/vi/-FYgTzacIa4/0.jpg)](https://www.youtube.com/watch?v=-FYgTzacIa4)
+
+
+
+https://github.com/nolvuscodes/vsDeploy/assets/49461213/123a70ae-ca21-4361-9550-5a33b36aafad
 
 
 
